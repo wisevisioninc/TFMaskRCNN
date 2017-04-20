@@ -1,7 +1,7 @@
 # --------------------------------------------------------
-# Mask RCNN
-# Licensed under The MIT License [see LICENSE for details]
-# Written by CharlesShang@github
+# Mask RCNN for TensorFlow
+# Licensed under Apache-2.0 License [see LICENSE for details]
+# Written by chenyejin1991@gmail.com
 # --------------------------------------------------------
 
 cimport cython
